@@ -22,7 +22,7 @@
 12) Find tune a llm with own data
 13) expense tracker
 
-14) Bookmark manager (track of a links and categorize by the tags)
+14) Bookmark manager (track of a links and categorize by the tags )
 
 
 
